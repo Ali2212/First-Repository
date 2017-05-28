@@ -1,0 +1,13 @@
+name = input('Enter your name: ')
+
+age=input('enter your age: ')
+
+gender=input('enter your gender: ')
+
+print(name)
+
+print(int(age))
+
+print(gender)
+
+print(gender[0])
